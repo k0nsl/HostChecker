@@ -1,19 +1,24 @@
-=== HostChecker ===
-Author: Sadi Qevani
-Email: sadiqevani@dot.al
-Website: www.sadiqevani.com
-Demo: www.sadiqevani.com/hostchecker/
+HostChecker
+===========
 
-Name: HostChecker
-Version: 1.2
+Author: Sadi Qevani  
+Email: sadiqevani@dot.al  
+Website: www.sadiqevani.com  
+Demo: www.sadiqevani.com/hostchecker/  
+  
+  
+Name: HostChecker  
+Version: 1.2  
 
-== Description ==
+Description
+-----------
 
 HostChecker is a script that helps you monitor your servers and services whether they are online or not. 
 You can add a unlimited amount of hosts or ip to monitor and directly check them or a cronjob will check the services 
 for you and you will receive an email if one of your hosts is down.
 
-== Installation ==
+Installation
+------------
 
 Please follow the steps below:
 
@@ -27,4 +32,4 @@ Please follow the steps below:
 
 4. Visit the website and you are ready to go. If you need further help do not hesitate to contact me.
 
-5. Add the file cron.php to the cronjob each X minutes you want but i suggest something like 10 or 15 minutes.
+5. Add the file cron.php to the cronjob each X minutes you want but I suggest something like 10 or 15 minutes.
